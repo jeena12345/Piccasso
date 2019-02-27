@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import com.squareup.picasso.Picasso;
 public class MainActivity extends AppCompatActivity {
 ImageView im;
-Button bt;
+Button bt;//werty
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
